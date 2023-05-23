@@ -31,12 +31,15 @@
 
 # print(tupla)
 
-tupla1 = (0,1,2,3,4,5,6,7,8,9)
-tupla2 = (0,1,2,3,4,5,6,7,8,9)
-tupla3 = ()
-tupla4 = ()
-# tupla3 =  tupla1 * tupla2
-for i in range(10):
-    tupla3[i] += tupla1[i] * tupla2[i]
+# tupla1 = (0,1,2,3,4,5,6,7,8,9)
+# tupla2 = (0,1,2,3,4,5,6,7,8,9)
+# tupla3 = ()
+# tupla4 = ()
+# # tupla3 =  tupla1 * tupla2
+# for i in range(10):
+#     tupla3[i] += tupla1[i] * tupla2[i]
 
-print(tupla3)
+# print(tupla3)
+
+a = 40 / 11
+print(a)
