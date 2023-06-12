@@ -1,0 +1,14 @@
+Idade,Gênero,"Qual é o seu modal de entrega? (1 - Carro, 2 - Moto ou 3 - Bicicleta)","Você se sente seguro(a) ao realizar entregas com seu modal de entrega? (1 - Sim, 2 - Não, 3 - Não sei)","Você recebe treinamento adequado para realizar entregas com seu modal de entrega? (1 - Sim, 2 - Não, 3 - Não sei)","Você consegue atender à demanda de entregas de forma satisfatória com seu modal de entrega? (1 - Sim, 2 - Não, 3 - Não sei)","Você enfrenta dificuldades para encontrar endereços de entrega com seu modal de entrega? (1 - Sim, 2 - Não, 3 - Não sei)","Você acredita que o valor pago pelas entregas é justo considerando seu modal de entrega? (1 - Sim, 2 - Não, 3 - Não sei)","Você recebe apoio adequado da equipe do iFood em caso de problemas durante as entregas com seu modal de entrega? (1 - Sim, 2 - Não, 3 - Não sei)","Você tem acesso a equipamentos de segurança adequados para realizar as entregas com seu modal de entrega? (1 - Sim, 2 - Não, 3 - Não sei)","Você considera o trabalho de entregador do iFood uma opção viável de renda com seu modal de entrega? (1 - Sim, 2 - Não, 3 - Não sei)","Você recomendaria o trabalho de entregador do iFood para outras pessoas com seu modal de entrega? (1 - Sim, 2 - Não, 3 - Não sei)",Data,Hora
+22,1,3,1,2,1,5,2,1,2,3,1,08/06/2023 13:31:49
+33,1,1,2,3,2,1,2,3,1,2,2,08/06/2023 13:32:00
+12,1,2,2,3,1,2,3,1,2,1,,08/06/2023 13:32:11
+1,2,3,2,1,2,1,1,2,1,2,3,08/06/2023 13:32:25
+15,1,2,3,2,1,2,1,2,1,2,3,08/06/2023 13:32:35
+66,2,1,1,1,1,2,2,3,3,2,1,08/06/2023 13:32:45
+21,1,1,1,1,1,1,2,2,2,3,3,08/06/2023 13:32:55
+44,1,1,1,2,2,1,2,1,2,3,3,08/06/2023 13:33:03
+jayme,22,1,1,1,2,1,3,1,2,1,2,3
+ana,22,2,1,1,2,1,2,taxa minima de 8
+pedro ,21,1,2,1,1,2,2,taxa minima de 3.50
+,,,,,,,,nao
+jayme,21,1,2,3,1,2,1,nao,08/06/2023 17:02:46
